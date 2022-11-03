@@ -1,0 +1,23 @@
+{
+  "name": "ah-asiek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AH-Aashiq/ah-asiek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AH-Aashiq/ah-asiek/issues"
+  },
+  "homepage": "https://github.com/AH-Aashiq/ah-asiek#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
